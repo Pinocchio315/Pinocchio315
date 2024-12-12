@@ -20,7 +20,7 @@
 
 ### My Repositories
 1) Graph Neural Networks and Reinforcement Learning
-   - [Paper Review] [Applications of GNNS and RL algorithms to topology of 3-manifolds](https://github.com/songjin91/LearningPlumbings/tree/main) 
+   - [Scientific Paper] [Applications of GNNS and RL algorithms to topology of 3-manifolds](https://github.com/songjin91/LearningPlumbings/tree/main) 
 2) Google Machine Learning Bootcamp
    - [Kaggle Playground Competition S4E7](https://github.com/Pinocchio315/kaggle_playground_s4e7)
    - [Kaggle Playground Competition S4E8](https://github.com/Pinocchio315/kaggle_playground_s4e8)
