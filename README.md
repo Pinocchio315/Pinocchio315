@@ -27,7 +27,7 @@
 3) zero-base Data School Bootcamp
    - [Assignments](https://github.com/Pinocchio315/zerobase_dataschool_28th)
    - [Mid-term Project: YOLOv11 + OpenAI API](https://github.com/Pinocchio315/zerobase_DS28_DLP)
-   - [Final Project: Image Caption Generator]()
+   - [Final Project: Image Caption Generator](https://github.com/Pinocchio315/image_caption_generator/tree/main)
 4) LLMs
    - [Fine-tuning GEMMA-2B](https://github.com/Pinocchio315/trip-advisor-Seoul)
    - [Tutorials for LangChain](https://github.com/Pinocchio315/Intro_to_LangChain)
