@@ -10,6 +10,7 @@
 - C++
 - Pytorch, Pytorch-geometric(GNN)
 - Tensorflow, Keras
+- Tableau
 - Git
 - Mathematica, Matlab
 
