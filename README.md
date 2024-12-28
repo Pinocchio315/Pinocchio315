@@ -23,16 +23,17 @@
    - [Scientific Paper] [Applications of GNNS and RL algorithms to topology of 3-manifolds](https://github.com/songjin91/LearningPlumbings/tree/main)
 
 2) LLMs
+   - [Chatbot for Schedules in Google Calendar](https://github.com/Pinocchio315/schedule_manager_chatbot/)
    - [Fine-tuning GEMMA-2B](https://github.com/Pinocchio315/trip-advisor-Seoul)
    - [Tutorials for LangChain](https://github.com/Pinocchio315/Intro_to_LangChain)
-   - [Chatbot for Schedules in Google Calendar](https://github.com/Pinocchio315/schedule_manager_chatbot/)
 
-3) Google Machine Learning Bootcamp
+
+4) Google Machine Learning Bootcamp
    - [Kaggle Playground Competition S4E7](https://github.com/Pinocchio315/kaggle_playground_s4e7)
    - [Kaggle Playground Competition S4E8](https://github.com/Pinocchio315/kaggle_playground_s4e8)
    - [Gemma Sprint: Trip-advisor](https://github.com/Pinocchio315/trip-advisor-Seoul/tree/main)
 
-4) zero-base Data School Bootcamp
+5) zero-base Data School Bootcamp
    - [Assignments](https://github.com/Pinocchio315/zerobase_dataschool_28th)
    - [Mid-term Project: YOLOv11 + OpenAI API](https://github.com/Pinocchio315/zerobase_DS28_DLP)
    - [Final Project: Image Caption Generator](https://github.com/Pinocchio315/image_caption_generator/tree/main)
