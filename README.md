@@ -1,6 +1,6 @@
 ### Introduction
 - 👋 Hi, I’m @Pinocchio315
-- 👨🏻‍🎓 I have a PhD in Geometry and Mathematical Physics.
+- 👨🏻‍🎓 I had a PhD in Geometry and Mathematical Physics.
 - 👀 I’m also interested in machine learning, AI and big data.
 - 🌱 I’m currently learning LLMs such as OpenAI, Gemma, and LangChain framework.
 - 👨🏻‍🎓 I'm now working as a post-doctoral researcher in POSTECH.
